@@ -1,13 +1,10 @@
 # PlantShield : GLCM and KNN Fusion in CNN for Robust Plant Disease Detection 
-## Abstract : 
+
 Plant diseases are a critical problem in modern agriculture, responsible for significant productivity losses of crops
 and economic damages. This paper describes the PlantShield 
 system that employs both texture-based as well as deep learning 
 methods to enhance the robustness and precision of plant disease 
-identification. The PlantVillage dataset, which has approximately 
-54,000 photos of both healthy and damaged leaves from different 
-plant species, serves as the foundation for the system. In this 
-approach, textural properties like contrast and homogeneity are 
+identification. In this approach, textural properties like contrast and homogeneity are 
 extracted using the Gray Level Co-occurrence Matrix, while deep 
 visual features are extracted using CNN. This KNN method is used 
 for fusing and classification of the features. The system would be 
@@ -39,10 +36,3 @@ The dataset contains a total of **38 classes** of plant disease and **1** class 
 |Tomato Bacterial Spot| Tomato Early Blight  | Tomato Late Blight     |Tomato Leaf Mold          |
 |Tomato Septoria Leaf Spot| Tomato Two Spotted Spider Mite | Tomato Target Spot |Tomato Mosaic Virus |
 |Tomato Yellow Leaf Curl Virus | Tomato Healthy      |    |    |
-
-# Authors :
-* Tarushi Sandeep Gupta
-* Email id- tarushigupta03@gmail.com
-
-* Shivani
-* Email id- shivanisaini2173@gmail.com
